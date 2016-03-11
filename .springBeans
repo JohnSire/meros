@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beansProjectDescription>
+	<version>1</version>
+	<pluginVersion><![CDATA[3.6.2.me201505141600]]></pluginVersion>
+	<configSuffixes>
+		<configSuffix><![CDATA[xml]]></configSuffix>
+	</configSuffixes>
+	<enableImports><![CDATA[false]]></enableImports>
+	<configs>
+		<config>resources/chapter3/dependencyInject.xml</config>
+		<config>resources/chapter3/staticFactoryDependencyInject.xml</config>
+		<config>resources/chapter3/setterDependencyInject.xml</config>
+		<config>resources/chapter3/idRefInject.xml</config>
+		<config>resources/chapter3/listInject.xml</config>
+	</configs>
+	<autoconfigs>
+	</autoconfigs>
+	<configSets>
+	</configSets>
+</beansProjectDescription>
